@@ -1,0 +1,560 @@
+{
+  "buildId": "420a0bfafed164dcec14f2854740c539ed1373cc759d5299bdd057232aa454b3",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source": "site"
+    },
+    {
+      "path": "404.html",
+      "sha256": "20257deac01bd08af06d58077a089379f37a933867ae08c3ca4bb6dbf9ccd9d6",
+      "source": "site"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "23e15fe720f06e4d4680f9e46fbf6cfebdf83e6ab62d5f15a77c84835f3ea6ed",
+      "source": "site"
+    },
+    {
+      "path": "OFL.txt",
+      "sha256": "65463238fe1600c6ca8acbffb52ea8f3287f894ad6cf68c31be5fe8f3ec43bc3",
+      "source": "site"
+    },
+    {
+      "path": "README.md",
+      "sha256": "673f316d93db0b8239544d74a412c40edd0669e5a9e1b20d8a67433c38c4348e",
+      "source": "site"
+    },
+    {
+      "path": "about/index.html",
+      "sha256": "736e7e330acb26937672eb8560aa20e479457f3c672d9da37ba2ab153b09134d",
+      "source": "site"
+    },
+    {
+      "path": "amber-morkel.vcf",
+      "sha256": "dd35860aea40b575e6d5205a13402d77e47c3c3968d94dbfe2b00f449b574e2f",
+      "source": "site"
+    },
+    {
+      "path": "apple-touch-icon.png",
+      "sha256": "189b4ce5dc6b39bc7443dc8613169c5def5717ac710296de87ddc609785a92a1",
+      "source": "site"
+    },
+    {
+      "path": "assets/css/site.css",
+      "sha256": "67e2e3e6b26c02d7a24fe2c504b9380590b64ba3214e1eb2e73ab9a8bb88bd63",
+      "source": "site"
+    },
+    {
+      "path": "assets/fonts/fraunces-latin-300-italic.woff2",
+      "sha256": "74cb64bfa9b1ce23f22cc323a0ab39430389e23c2e07446d05377c7a33296ca5",
+      "source": "site"
+    },
+    {
+      "path": "assets/fonts/fraunces-latin-300-normal.woff2",
+      "sha256": "eb7978600911337e093a9b339e355a5493c4a2a6609af2839e8298c0b5444174",
+      "source": "site"
+    },
+    {
+      "path": "assets/fonts/fraunces-latin-400-normal.woff2",
+      "sha256": "e558f39453a9c611908be04294b50dea5f21ae6c49b41c6e47f4115e91f90209",
+      "source": "site"
+    },
+    {
+      "path": "assets/fonts/instrument-sans-latin-400-normal.woff2",
+      "sha256": "9a91efaa3599a6ef01b2f49e9ec670e3a2f39baeef09c73198f1052cf3bb0850",
+      "source": "site"
+    },
+    {
+      "path": "assets/fonts/instrument-sans-latin-600-normal.woff2",
+      "sha256": "efb770916eda95a0e31d80cccde9651d4e8617010b21220e9f227c4820d675da",
+      "source": "site"
+    },
+    {
+      "path": "assets/img/01d7408e9c48-1600.webp",
+      "sha256": "01d7408e9c48c0deeff2037179bd437f4e15613ae00cbb17baeaab652e154030",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/022fe623c040-1254.avif",
+      "sha256": "022fe623c040c9cec133f3068d9d94e328deb3fef228c540bbbb8e6353389f03",
+      "source": "site"
+    },
+    {
+      "path": "assets/img/0fa3dbfe3e06-1600.webp",
+      "sha256": "0fa3dbfe3e063351cc58b8fa286e1746badc6512382ba843f7bfa1ae03d50552",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/12a76addaf82-480.avif",
+      "sha256": "12a76addaf825f17167709935172a459891b0c79a3e85dd7aa0d397bb04674ab",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/147e58675e3d-480.webp",
+      "sha256": "147e58675e3d548682076f0770f5c6a2c7d319edba9f8711a0dbb310c4334267",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/1624708808f7-480.webp",
+      "sha256": "1624708808f79291e5a6f6b428053ebd7209893d456038f215039c9798df9d58",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/1b9ab97902d7-960.jpg",
+      "sha256": "1b9ab97902d75b31ab92c6868f0b1c25f5097386b778fe2a0a25b11ff6746875",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/1d048c1e1168-1600.jpg",
+      "sha256": "1d048c1e1168484b0c2c3c263840ba7a62f66c013704138f6271dd9867dc8a7d",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/1f2f125eff40-480.jpg",
+      "sha256": "1f2f125eff40a3b9cbf16aa858c666e9b1bad8bbc1796bb16959994f349a6fe8",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/1f9503a7d8cd-780.jpg",
+      "sha256": "1f9503a7d8cdaf6358e238cb1be0f41525c25606a7f474c5e80d3fcd4ce65e02",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/20e21a02436b-808.jpg",
+      "sha256": "20e21a02436b6e8e386ad88f4ca14ebb2a316a081a41cb723fc665741354475b",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/23b706b8eee7-480.jpg",
+      "sha256": "23b706b8eee715b5598f683900593768550814810bd477b0afd56b1d388c1306",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/27eee714ec6d-480.jpg",
+      "sha256": "27eee714ec6d88fb538d66c7f6eee6ee7bc6566dc7b1aa885c0d005bafde35b5",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/29a7c33969ef-480.jpg",
+      "sha256": "29a7c33969ef3e9714fbae706b07c2cb0d96bee1d417a27c10199c496bfd7f4b",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/2c545e6a937c-780.avif",
+      "sha256": "2c545e6a937cac5dc23b1b973a28d6591487714ee8850dd4be2e8ce074cbc261",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/2d8f1d249859-480.jpg",
+      "sha256": "2d8f1d2498597237ff514e787934c84ccbb0d924f48deadda8889f6159a1a8a3",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/2dd2e448a9ea-780.jpg",
+      "sha256": "2dd2e448a9ea45dd23cd77f7a384c5e688d574c7f28bacefc5e197d088a47c14",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/2f9d9e146799-480.avif",
+      "sha256": "2f9d9e1467999b4c304f399b560130edcaaed060689ac45128f8b08f2b56aa5c",
+      "source": "site"
+    },
+    {
+      "path": "assets/img/35d82a187f0c-960.avif",
+      "sha256": "35d82a187f0c0b07b85c65e8a9b0041c63f3afde656775c827ccc398564f1881",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/38ed48706d43-960.jpg",
+      "sha256": "38ed48706d431ae46f8d4ee27b07d42c1501219bb7753e8dcde26c188d15fcfc",
+      "source": "site"
+    },
+    {
+      "path": "assets/img/46b26d96c174-960.webp",
+      "sha256": "46b26d96c17426919d9a40043a5ddad51ea70bdc2e02550c23fba24f144b4127",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/490df24d3dd3-480.avif",
+      "sha256": "490df24d3dd3c07646ebb1fdd233c176536423d83d6ac39e7c72931ed72a1afb",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/4be7cc0f132c-780.webp",
+      "sha256": "4be7cc0f132c12bf8f648dc753f8511eebc1759b68624c267beeb3b2fd8393ca",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/4ea87f89cce2-808.avif",
+      "sha256": "4ea87f89cce2095e758c2151cd59fa75b39b766762d3bd7adfb5f237ea3126e4",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/504cf1d51e68-1600.jpg",
+      "sha256": "504cf1d51e68f277feeb6d59c9675bffe4c5a10c9101935b720232f6edb3d1e1",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/5144ad79263c-780.avif",
+      "sha256": "5144ad79263c493641c6355b56b2c6818ec59861c2ea6883a94ebfe3e8137e60",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/52754f95bd68-480.webp",
+      "sha256": "52754f95bd684ad9107e6272fe747cf307cf9f80a4dc3a5adb14c5f5d6703492",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/52999670eeb7-780.webp",
+      "sha256": "52999670eeb770b967e870dc8ae08c201e6403f061882aae033039ca8cea532a",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/5595922cab0b-780.webp",
+      "sha256": "5595922cab0b06ce09c45d7c1e4b4a5d5ee50a66d23558718e36886be09cd9b6",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/5661ff9a203a-1600.webp",
+      "sha256": "5661ff9a203aae717b72459075e5903ac3a2e1c3cd06d90653bba18cfa70fd60",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/597bb2d75b8c-1600.avif",
+      "sha256": "597bb2d75b8c122ec7486e2c9d7e09ca8b532d280dedf3eb2a4439941474574c",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/5dbc4bdcf457-480.webp",
+      "sha256": "5dbc4bdcf45734f52aaddbc4cc9841839451a927fae0af5d8892466559083909",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/63cd022001d9-960.jpg",
+      "sha256": "63cd022001d9d128f41c576f2bc2fe3d0e8f74bdd8fa43df04060db33eb5c5e0",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/63dcb7a43dcc-960.jpg",
+      "sha256": "63dcb7a43dcc2bc2c443d7c719fbeace509c5673d41fc6ebac7d9c7b68369be9",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/680548a8da12-808.webp",
+      "sha256": "680548a8da1248ab6db0277ad1945b5c17d8db196bf6058ea68f5abc70f194c9",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/6f4a50a336d9-480.webp",
+      "sha256": "6f4a50a336d9444e86a164d74b78f27f5cf806e0c674b309508e4dfd97ecf614",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/70a0aca70e87-480.webp",
+      "sha256": "70a0aca70e876b05bb786db90f27871fbc51cc4d5fca20c6ee269b7ad5185c0a",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/73a8b616f3a6-780.jpg",
+      "sha256": "73a8b616f3a6a963c8dcf7830a78b83403007dbb08a14f6c3530a62ce2544b5d",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/7707f4cad7fa-480.webp",
+      "sha256": "7707f4cad7fab233585f9bc6969aacf8ee5fb97f69bb7b3a2c008abf797510eb",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/7918546e60bd-1600.jpg",
+      "sha256": "7918546e60bd840d1532cc73f5f0f9978e8d2fd6a1326aa54cb8df1487d0e740",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/7a2906fc9455-960.webp",
+      "sha256": "7a2906fc945551fd6d34ac72dbf69b928638e00607607c0f570bf3335b282a0c",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/80f8127fb51b-480.avif",
+      "sha256": "80f8127fb51bdd4ffe63237af1b6854c3d685220553545ff6537b41ba1fe9e5d",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/81cac373462b-780.avif",
+      "sha256": "81cac373462bc562c6e4f1bf6f76695abf40dbca7ccb0b1125c588af3a085bdf",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/87aaf14a0532-1254.jpg",
+      "sha256": "87aaf14a0532b5520ced270998c6005833c06a9ecde612e3d85c0b8d4aee530f",
+      "source": "site"
+    },
+    {
+      "path": "assets/img/8c7e2127f38f-480.webp",
+      "sha256": "8c7e2127f38f0d469895585675fe95edf8c51a0cdc6aa7bd9080ecf3b8453246",
+      "source": "site"
+    },
+    {
+      "path": "assets/img/8ca4d5a88e57-960.jpg",
+      "sha256": "8ca4d5a88e5791c1ce45375b27d6fdf200eb30b3be2e7d5be0b00a7db36c8eb4",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/8e88290a1808-480.webp",
+      "sha256": "8e88290a18082e98b571bf74af22176a2677edaafda6a3c1235a9d73f9777a56",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/92cff9f7a3a1-480.avif",
+      "sha256": "92cff9f7a3a1b0b6c53fd1f9c19db19c4520b4b1f3ddd9448cfff4125018395a",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/a5379326b9b5-780.webp",
+      "sha256": "a5379326b9b50a446ea386dc38e0f070420d654cc031a94cc8f962b9a397f4ae",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/a88a5d02730e-480.avif",
+      "sha256": "a88a5d02730e4eed740ebe1ecbaa1a7e16acc2b46f5f069ac08388487f9d6e2d",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/aa08e81c0ca5-480.avif",
+      "sha256": "aa08e81c0ca5d100f80638965ae61b2145fc8a70ceaad8dd18ff550e74c62450",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/af8a2f0808f3-480.avif",
+      "sha256": "af8a2f0808f36f6429c99c641f6ae6501779a7db6bd1501af5ec395f8d7df7f0",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/b2df45940463-960.webp",
+      "sha256": "b2df4594046373538035ce94fd1641e5c28474f1ff9dedccb28629f6f6996f5c",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/b433844895a6-780.avif",
+      "sha256": "b433844895a6a99db988fd3ed2805a702fa74b1118094c897a1dcb35d29412f1",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/b82256410762-780.jpg",
+      "sha256": "b82256410762fd80c0ef0a490cfbd75ca13af8b93d795ae1eda0ca3f931d88ae",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/bd7f643abfa1-480.jpg",
+      "sha256": "bd7f643abfa17a06a9d9b12232b40806d210cb78288878dcba7d59b03e536e5e",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/ca6dc845a37e-1600.webp",
+      "sha256": "ca6dc845a37e360ad6d0c1f631e7671d15d7dcfeac25e305569a81d9a0819c9e",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/cb50c3d61960-960.webp",
+      "sha256": "cb50c3d6196029e6895644934f35792fc7e4c143d0617e8bb058d3c68578900b",
+      "source": "site"
+    },
+    {
+      "path": "assets/img/cb869ddd1eb0-480.webp",
+      "sha256": "cb869ddd1eb00a2fc2467ac1e370883123a8edd421452fda728e79219dea0849",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/cc82dcd68ddb-1600.avif",
+      "sha256": "cc82dcd68ddbe00103f6ffd41c750f892bf8da4550d7178026ad98985e60a137",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/d718ca341951-1600.avif",
+      "sha256": "d718ca3419514e0b107141adc78788537dd759e349dde476e7f2c206a6e86a59",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/d7c29438a533-960.avif",
+      "sha256": "d7c29438a533150d94e64146b1bbc5b9b572ab551ff0e7c12f537a5287d635e9",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/d8b0c25b9c95-480.jpg",
+      "sha256": "d8b0c25b9c952d5a7ee5fea7a764153efa1adbffa569c635ecd185b8524eaaa7",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/db5e21157816-1600.jpg",
+      "sha256": "db5e21157816854658c1a0f5720d139893ea9df75eedf02f8b8989dab9c11103",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/db7644f82607-960.avif",
+      "sha256": "db7644f82607d8dd8978ac093b89a60f447588cc780c7d66ce3d90115ff93512",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/dcb46ee75101-480.jpg",
+      "sha256": "dcb46ee75101c422760952e8bb8a9933d5ac5071235de382ca338b4a8cd7b5fe",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "assets/img/e04c120eac54-480.jpg",
+      "sha256": "e04c120eac54ced684d5c90d58efc6da9a42966afe2260cece6660ea3a888554",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/e2d235e0f32f-1600.avif",
+      "sha256": "e2d235e0f32fb256e7d20856cf666ced74b13b91ca5476469892021e882b46aa",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "assets/img/e3c05c9082bc-960.webp",
+      "sha256": "e3c05c9082bc3e437387f2e2289ac3f7fccae4bc0d4d8a3dbbbe840671299b10",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/e425d27b0b8d-480.avif",
+      "sha256": "e425d27b0b8d2be56c8beb7617dd9f93f71ef4261a1bd1ee1979b824687e7292",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/e93d9ce6537f-480.avif",
+      "sha256": "e93d9ce6537fadf8b5feb9d6a26626aeb59cb19aaf3699ab542cb0109d8bad94",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "assets/img/eb6ae59b8b7f-960.avif",
+      "sha256": "eb6ae59b8b7f3bfccb373f53046225a527856f53999c15317c20883867a21faa",
+      "source": "site"
+    },
+    {
+      "path": "assets/img/f13270461c50-960.avif",
+      "sha256": "f13270461c50cab6865e23da38bf6d7f5515290fed5dcd0cd361725aedefe50a",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "assets/img/f24fd45e3985-480.jpg",
+      "sha256": "f24fd45e39850bb2391aa741731f82e1c01796ebce960f9dc86befa668f92513",
+      "source": "site"
+    },
+    {
+      "path": "assets/img/f6853491728b-1254.webp",
+      "sha256": "f6853491728bc3373ff886e3b234a39e597438490d404d528efbcf95270d1f3a",
+      "source": "site"
+    },
+    {
+      "path": "contact/index.html",
+      "sha256": "07983376955ef17fdabdd43800c604968b7e7b59d3d0480e10800732958ec689",
+      "source": "site"
+    },
+    {
+      "path": "favicon.svg",
+      "sha256": "287889a5fe77da34af27fb944b1c6ff56cf0dd48aaf7a07a8855b2f149ce01de",
+      "source": "site"
+    },
+    {
+      "path": "index.html",
+      "sha256": "e5c15cd08595ad3bb12e4526c350e797f61b4a5dee2c7e05efcca4f82253d78f",
+      "source": "site"
+    },
+    {
+      "path": "og/about.png",
+      "sha256": "87cc09655488dd92086e3786bc352420f82d04eafe4ddf8b0bfcd034a3dd37da",
+      "source": "site"
+    },
+    {
+      "path": "og/contact.png",
+      "sha256": "f7e50f4080f40278dc7a88634a65ccd513beef1cbaf8f2446643097fac2fd1f5",
+      "source": "site"
+    },
+    {
+      "path": "og/home.png",
+      "sha256": "14602aeb42974dc3cdc9c2c8d4f4c11d69a8b3786994a26e2f180b8fee717a5c",
+      "source": "site"
+    },
+    {
+      "path": "og/work-addiction-recovery-homepage.png",
+      "sha256": "df9ed13881e1d092051088bcee48063b9ba86125b94523e7e58a09a9e23dffbd",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "og/work-anxiety-program-landing-page.png",
+      "sha256": "3f425aaaceff77092e42a34bdb97482d4bb25046b3923649a65314df15802c10",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "og/work-cold-turkey-blog.png",
+      "sha256": "cfa69eaac8af39df508e7aa76c35852450be9a9778c4898f9308936397598b38",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "og/work-content-engine.png",
+      "sha256": "e8d96fa04c6f11e3092444b83776be314b99bec7c0dc405fa763b520cdb84316",
+      "source": "content-engine"
+    },
+    {
+      "path": "og/work-menopause-practice-homepage.png",
+      "sha256": "660c5d15c6a3478be7cd232977097237e54c48231b3ddb93b284e9ee330dad03",
+      "source": "menopause-practice-homepage"
+    },
+    {
+      "path": "og/work.png",
+      "sha256": "aed7f1a2391544032bde1ec8cea61f4313857e5194aee0913988f4250f4b67de",
+      "source": "site"
+    },
+    {
+      "path": "qr.png",
+      "sha256": "920a86e468891c375cd7006e99af15dcc3016c3013a0db8f1f001b016d512776",
+      "source": "site"
+    },
+    {
+      "path": "qr.svg",
+      "sha256": "373c612de5d31b8469e96c1833f892609f2b15adb8259a5f6c2bd46a38134633",
+      "source": "site"
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "18a9146287ccf8e1ca2c477e761badb1cdcfcaa9ff0f190ae1ef658547209e75",
+      "source": "site"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "4a0b80a13f3c05e8624ac56e92aae28c23db61e3ce07247c8203b47475552c43",
+      "source": "site"
+    },
+    {
+      "path": "work/addiction-recovery-homepage/index.html",
+      "sha256": "ad6006ac7d3bbfd2721895f2b83cde0773bad51d3808fa8abbcef48bd573527e",
+      "source": "addiction-recovery-homepage"
+    },
+    {
+      "path": "work/anxiety-program-landing-page/index.html",
+      "sha256": "1d6bbbe7e101fb6f00f845bbcdf9fe062cc226d62df9f6dc2b4dc26319b7a17e",
+      "source": "anxiety-program-landing-page"
+    },
+    {
+      "path": "work/cold-turkey-blog/index.html",
+      "sha256": "f7126dd68710064b28e3b04e9c2ef15f586aaa106168ab08a09fb54d2a12752c",
+      "source": "cold-turkey-blog"
+    },
+    {
+      "path": "work/content-engine/index.html",
+      "sha256": "fb05676262fdf2d4ac07b23bf9621f5440caff7ca6ead46a37ffd201397b9db0",
+      "source": "content-engine"
+    },
+    {
+      "path": "work/index.html",
+      "sha256": "e822c0b1248c95f9886dedf14a0734c0caab8c97bedc0164522b0c50786e5e75",
+      "source": "site"
+    },
+    {
+      "path": "work/menopause-practice-homepage/index.html",
+      "sha256": "722e44b0204bacf1e056f8e550f3e6d3224696e9dc90c31f29cb5eccc8f23b2a",
+      "source": "menopause-practice-homepage"
+    }
+  ]
+}
