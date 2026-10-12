@@ -1,5 +1,5 @@
 {
-  "buildId": "420a0bfafed164dcec14f2854740c539ed1373cc759d5299bdd057232aa454b3",
+  "buildId": "9d8414eea180581d77c41c2ca34006c93f0c0ceda0eff330bceba0c0c9218bc5",
   "files": [
     {
       "path": ".nojekyll",
@@ -43,7 +43,7 @@
     },
     {
       "path": "assets/css/site.css",
-      "sha256": "67e2e3e6b26c02d7a24fe2c504b9380590b64ba3214e1eb2e73ab9a8bb88bd63",
+      "sha256": "4b0d7a5ccc2b7c70ef704cf9574a143045d2313237108bee85aa221c8e9431f7",
       "source": "site"
     },
     {
@@ -448,7 +448,7 @@
     },
     {
       "path": "contact/index.html",
-      "sha256": "07983376955ef17fdabdd43800c604968b7e7b59d3d0480e10800732958ec689",
+      "sha256": "af51cd635960b76a37a6460ef5737785c40350dff400148baae22beeb35993ee",
       "source": "site"
     },
     {

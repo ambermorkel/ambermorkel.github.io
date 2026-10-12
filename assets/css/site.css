@@ -332,7 +332,7 @@ main > p { max-width: var(--measure); margin-block-end: var(--space-5); }
 
 /* Save contact */
 .save-contact { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-6); border-top: var(--line-hair) solid var(--color-rule); padding-block: var(--space-6); }
-.qr-card { display: flex; align-items: center; gap: var(--space-5); background: var(--color-surface); padding: var(--space-5); max-width: 22rem; }
+.qr-card { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-5); background: var(--color-surface); padding: var(--space-5); max-width: min(22rem, 100%); }
 .qr-card svg, .qr-card img { width: 6.5rem; height: 6.5rem; flex: none; color: var(--color-ink); }
 .qr-card figcaption { font-size: var(--step--1); color: var(--color-mute); line-height: 1.5; }
 
